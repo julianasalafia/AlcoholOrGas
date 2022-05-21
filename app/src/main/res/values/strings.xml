@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alcohol Or Gasoline</string>
+    <string name="description">What\'s the best fueling option?</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+    <string name="alcoholPrice">Alcohol Price US$ 4,1</string>
+    <string name="gasolinePrice">Gasoline Price US$ 3,7</string>
+</resources>
